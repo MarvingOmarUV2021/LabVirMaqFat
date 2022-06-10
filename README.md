@@ -1,5 +1,9 @@
 # Proyecto Capstone
 ## Laboratorio virtual de la máquina de fatiga
+* Jesús Medina Cervantes
+* Edgar Mejía Sánchez
+* Marving Omar Aguilar Justo
+
 
 ### Máquina de fatiga
 La máquina de fatiga sirve para realizar ensayos de fatiga. Un ensayo de fatiga tiene el objetivo de analizar las características de resistencia de diferentes materiales cuando trabajan bajo cargas variables. Entre estos materiales se pueden encontrar ejes giratorios de transmisión, pernos de anclaje, barras, estructuras varias, ejes de giro, amortiguadores e incluso asfalto o mezcla bituminosa; esto sirve para ver cómo evoluciona el deterioro de materiales con el paso del tiempo y la degradación progresiva. (https://www.servosis.com/noticias/maquinas-de-fatiga-42)
