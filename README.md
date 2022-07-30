@@ -11,10 +11,15 @@ Un ensayo de fatiga tiene el objetivo de analizar las características de resist
 ### Imagen del prototipo inicial
 La siguiente imagen muestra, dentro del polígono naranja, la máquina de ensayos de fatiga que se encuentra en el laboratorio de Ing. Mecánica de la Facultad de Ingeniería de la Universidad Veracruzana, campus Ixtaczoquitlán; este prototipo está sin instrumentrar aún. En el recuadro verde, se encuentra el material que será sometido a ensayos de fatiga.
 
-![Logo de Wikipedia](https://github.com/MarvingOmarUV2021/LabVirMaqFat/blob/main/Prototipo_Ver01.jpg?raw=true "Protoripo INICIAL")
+![Prototipo INICIAL](https://github.com/MarvingOmarUV2021/LabVirMaqFat/blob/main/Prototipo_Ver01.jpg?raw=true "Prototipo INICIAL")
 
 ### Imagen del prototipo final
 La siguiente imagen muestra la máquina de ensayos de fatiga con tecnología IoT; por medio de una dashboard, es posible regular la frecuencia del variador de frecuencia y arrancar el motor, así como también supervisar el conteo de vueltas, la velocidad y fuerza aplicada a la probeta bajo prueba  de fatiga, además de visualizar el estado de la probeta y del ensayo.
 
-![Logo de Wikipedia](https://github.com/MarvingOmarUV2021/LabVirMaqFat/blob/main/Prototipo_Ver01.jpg?raw=true "Protoripo FINAL")
+![Prototipo FINAL](https://github.com/MarvingOmarUV2021/LabVirMaqFat/blob/main/Prototipo_Ver01.jpg?raw=true "Prototipo FINAL")
 
+La siguiente liga es para acceder a la documentación del proyecto, a través de la página de Cógigo IoT:
+https://edu.codigoiot.com/course/view.php?id=914#section-0
+
+La siguiente liga es para acceder al video del funcionamiento del proyecto, a través de la página de Youtube:
+[agregar liga]
