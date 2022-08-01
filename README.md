@@ -22,4 +22,4 @@ La siguiente liga es para acceder a la documentación del proyecto, a través de
 https://edu.codigoiot.com/course/view.php?id=914#section-0
 
 La siguiente liga es para acceder al video del funcionamiento del proyecto, a través de la página de Youtube:
-[agregar liga]
+https://uvmx-my.sharepoint.com/:v:/g/personal/jemedina_uv_mx/ETALgzNcPYhMgesTFgdieaYBjq4ecGmjh85kKzo0y0jnmw?e=Me7Jpo
