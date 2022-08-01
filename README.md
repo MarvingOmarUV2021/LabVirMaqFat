@@ -16,7 +16,7 @@ La siguiente imagen muestra, dentro del polígono naranja, la máquina de ensayo
 ### Imagen del prototipo final
 La siguiente imagen muestra la máquina de ensayos de fatiga con tecnología IoT; por medio de una dashboard, es posible regular la frecuencia del variador de frecuencia y arrancar el motor, así como también supervisar el conteo de vueltas, la velocidad y fuerza aplicada a la probeta bajo prueba  de fatiga, además de visualizar el estado de la probeta y del ensayo.
 
-![Prototipo FINAL](https://github.com/MarvingOmarUV2021/LabVirMaqFat/blob/main/Prototipo_Ver01.jpg?raw=true "Prototipo FINAL")
+![Prototipo FINAL](https://github.com/MarvingOmarUV2021/LabVirMaqFat/blob/main/Prototipo_Ver02.jpg?raw=true "Prototipo FINAL")
 
 La siguiente liga es para acceder a la documentación del proyecto, a través de la página de Cógigo IoT:
 https://edu.codigoiot.com/course/view.php?id=914#section-0
