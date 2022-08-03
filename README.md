@@ -23,3 +23,6 @@ https://edu.codigoiot.com/course/view.php?id=914#section-0
 
 La siguiente liga es para acceder al video del funcionamiento del proyecto, a través de la nube de OneDrive:
 https://uvmx-my.sharepoint.com/:v:/g/personal/jemedina_uv_mx/ETALgzNcPYhMgesTFgdieaYBjq4ecGmjh85kKzo0y0jnmw?e=Me7Jpo
+
+La siguiente liga es para acceder al archivo de la presentación del proyecto, a través de la nube de OneDrive:
+https://uvmx-my.sharepoint.com/:b:/g/personal/marvaguilar_uv_mx/EcTczmeiH5FBqP0Qb8JhkmsBZQWm0HQQukPT5sPivdFRYw?e=CNNV08
